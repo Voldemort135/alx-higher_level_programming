@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 """Defines a locked class"""
 
-class lockedClass:
+class LockedClass:
     """
     Prevent the user from instantiating new locked Class attributes
     for anything but the attributes called "first_name"

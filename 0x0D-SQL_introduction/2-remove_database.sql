@@ -1,2 +1,2 @@
--- Deletes a database in MySQL Server and does not fail if doesn't exist
-DELETE DATABASE IF EXISTS hbtn_0c_0;
+-- Deletes a database in MySQL Server and does not fail if doesnt exits
+DROP DATABASE IF EXISTS hbtn_0c_0;
